@@ -1,4 +1,4 @@
-import { request, Router } from 'express';
+import { Router } from 'express';
 
 import { SpecificationService } from '../modules/car/services/SpecificationService';
 import { SpecificationsRepository } from '../modules/car/repositories/SpecificationsRepository';
